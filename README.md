@@ -9,6 +9,7 @@ This project focuses on removing haze from images using a deep learning approach
 ## Dataset
 
 The dataset used in this project consists of paired hazy and clear images. The hazy images are used as input, while the corresponding clear images serve as the target output.
+<a href="[https://example.com](https://www.dropbox.com/scl/fo/7bcjdt4m8tlaloo1uhdeo/AM3CZXvLrfr3FFozaAdplns?rlkey=9x0r1ek2k14ytgsyhu11qigq5&st=xdnj787z&dl=0)">Dataset Dropbox</a>
 
 ### Preprocessing
 
